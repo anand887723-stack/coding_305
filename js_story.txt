@@ -1,0 +1,16 @@
+js comes with the browser inbuild it is not like the js or python so that we 
+have to install it seperately , it just comes as free inbuilt pacakge, either with the 
+node js or with the browser engines, 
+like even in the js , we don't have the print statements, it is all given by the so called
+api of the browser. 
+so in the overall sense js is just a languge which is used for giving the instructions 
+to the engines 
+
+THIS WAS ABOUT JS RUNTIME ENVIRONMENT 
+
+js follows functional programing paradigm 
+node js is an enviroment 
+vanila js is normal js 
+react js , angular js is an optimized script which tells the developer that 
+just write the code instructions in my own langauge and i will give you the optimized code to
+run 
