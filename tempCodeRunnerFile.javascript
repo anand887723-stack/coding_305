@@ -1,1 +1,8 @@
-console.log ( "Printing this to check that node is working on my local or not");
+let vari=1
+console.log (vari);
+{
+
+    console.log( vari);
+}
+
+fn()

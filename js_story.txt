@@ -13,4 +13,9 @@ node js is an enviroment
 vanila js is normal js 
 react js , angular js is an optimized script which tells the developer that 
 just write the code instructions in my own langauge and i will give you the optimized code to
-run 
+run .
+
+
+
+
+
