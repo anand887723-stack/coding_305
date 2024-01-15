@@ -1,0 +1,43 @@
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+#define deb(x) cout << #x << "=" << x << endl;
+
+
+struct node{
+    node * arr[26]={NULL};
+    bool flag = false;
+    // in case of struct everything is public
+
+};
+
+class trie
+{
+public:
+    
+   void insert(string & word)
+   {
+
+   }
+
+   bool search(& wordtoserach)
+   {
+
+   }
+
+   bool searchprefix(string & preftoserach)
+   {
+
+   }
+
+    
+    
+    
+    
+};
+int main()
+{
+
+}

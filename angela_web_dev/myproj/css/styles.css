@@ -1,0 +1,83 @@
+/* just write the element which you want to change and do it   */
+ 
+
+
+/* here body is css selector */
+/* element selector */
+/* body{
+  background-color:yellow;
+} */
+
+
+/* class selector */
+.whatareyoudoing{
+  color:blue
+}
+
+/* id selector */
+/* id is given uniquely to one element in one html file , like i can't give same id to even same element in one html file  */
+#id1{
+background-color: palegoldenrod;
+}
+
+/* attribute selector */
+/* it can  be used to do differnt things in same element , like apply in some and not apply in some  */
+/*  see here draggable can be anything not only true, false , like we could write p[draggable="4"] */
+li[draggable]
+{
+  background-color: chartreuse;
+}
+
+
+/* all selector */
+* 
+{
+  background-color: blue;
+}
+
+
+img{
+  height: 200px;
+  width:200px
+}
+/* 
+hr{
+        height: 0px; 
+
+        border-style: none  ;
+
+        border-top-style: dotted;   /*so we are only affecting the border top line . so think the border style as outline around the hr line element */
+border-width: 5px;
+        width: 90%;
+        /* feel the line is like a box and that will not increase the height of line 
+        height of line will remain same but the space it is occupying will change  */
+      } 
+
+/* 
+      NOTE : EVERYTHING IN CSS IS JUST WHOLE BUNCH OF BOXES SO WE CAN SIMPLY ADD THEIR 
+      BACKGROUND THEIR HEIGHTS AND ALL */
+ /* h1 {
+  color: green;
+}
+
+.class1{
+
+
+  color: blue;
+
+
+
+
+
+}
+
+
+.class2{
+  color: green;
+}
+
+
+/* so feel this is a pseudo class where it enables us  to change the colour of background only if that part is hoverd over */
+
+/* this is like pseudo class */
+body :hover {background-color: coral;} */ */
